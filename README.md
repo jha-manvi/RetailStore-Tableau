@@ -6,3 +6,5 @@
   3. Sales in each city
   4. Sales by month
   5. Salesperson performance
+
+Link to the dashboard - https://public.tableau.com/app/profile/manvi.jha/viz/RetailSalesDashboard_16859202301260/SalesDashboard
